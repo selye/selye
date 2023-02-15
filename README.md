@@ -10,3 +10,8 @@ Here are some ideas to get you started:
 - :family:  Married have a child
 - :sparkles: I want to be a Software engineer
 -->
+
+🔭 I’m currently working on Hangzhou  
+🌱 I’m currently learning React  
+:family:  Married have a child  
+:sparkles: I want to be a Software engineer  
